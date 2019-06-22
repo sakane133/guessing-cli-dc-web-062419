@@ -5,5 +5,6 @@ def run_guessing_game
   number = rand(1..6)
   if user_input == "exit"
     puts "Goodbye!"
+    elsif user_input ==
   end
 end 
